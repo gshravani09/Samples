@@ -1,0 +1,10 @@
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csprojAssemblyReference.cache
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.Form1.resources
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice_Total.Properties.Resources.resources
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.GenerateResource.cache
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe.config
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\bin\Debug\Invoice Total.exe
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\bin\Debug\Invoice Total.pdb
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice Total.exe
+C:\Users\shrav\source\repos\Invoice Total\Invoice Total\obj\Debug\Invoice Total.pdb
